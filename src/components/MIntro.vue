@@ -1,7 +1,7 @@
 <template>
   <div
     id="about"
-    class="relative min-h-screen sm:min-h-[50vh] lg:min-h-screen w-full"
+    class="relative min-h-screen sm:min-h-[50vh] lg:min-h-screen w-full mb-20 sm:mb-0"
   >
     <div
       class="bg-raisin lg:min-h-screen lg:rounded-br-[477px] absolute w-full"
