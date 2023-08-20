@@ -69,31 +69,31 @@ function toggleMobileMenu() {
     <!-- mobile menu -->
     <div :class="[{ hidden: !showMenu }, 'md:hidden mobile-menu']">
       <ul class="">
-        <li class="active">
+        <li>
           <a
             href="#about"
-            class="block text-right text-sm pl-2 pr-4 py-4 text-white bg-violet font-semibold"
+            class="block text-right text-sm pl-2 pr-4 py-4 hover:bg-violet hover:text-white transition duration-300"
             >About</a
           >
         </li>
         <li>
           <a
             href="#services"
-            class="block text-right text-sm pl-2 pr-4 py-4 hover:bg-violet transition duration-300"
+            class="block text-right text-sm pl-2 pr-4 py-4 hover:bg-violet hover:text-white transition duration-300"
             >Services</a
           >
         </li>
         <li>
           <a
             href="#clients"
-            class="block text-right text-sm pl-2 pr-4 py-4 hover:bg-violet transition duration-300"
+            class="block text-right text-sm pl-2 pr-4 py-4 hover:bg-violet hover:text-white transition duration-300"
             >Clients</a
           >
         </li>
         <li>
           <a
             href="#contact"
-            class="block text-right text-sm pl-2 pr-4 py-4 hover:bg-violet transition duration-300"
+            class="block text-right text-sm pl-2 pr-4 py-4 hover:bg-violet hover:text-white transition duration-300"
             >Contact</a
           >
         </li>
