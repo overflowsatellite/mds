@@ -64,7 +64,7 @@ import FooterLogo from "../assets/images/footer_logo.png";
               />
             </svg>
 
-            <p class="text-lg">Medan</p>
+            <p class="text-lg">Rantau Prapat</p>
           </div>
 
           <p>
