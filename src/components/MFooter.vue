@@ -108,7 +108,7 @@ import FooterLogo from "../assets/images/footer_logo.png";
             />
           </svg>
 
-          <p class="text-lg">+62 812-4859-8955</p>
+          <p class="text-lg">+62 851-7970-2235</p>
         </div>
       </div>
     </div>
